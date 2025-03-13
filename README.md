@@ -1,4 +1,4 @@
-# IR Receiver for [Pico Light Bulbs Project]()
+# IR Receiver for [Pico Light Bulbs Project](https://github.com/Alchemist-Aloha/rp2040_ws2812_led_controller)
 
 This is the code for the second Pico used to receive the IR signals and send them to the main Pico via UART. 
 
